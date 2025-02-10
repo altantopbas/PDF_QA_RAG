@@ -14,8 +14,8 @@ Bu proje, PDF dosyalarını yükleyip içerikleri hakkında sorular sorabileceğ
 
 1. Projeyi klonlayın:
 ```bash
-git clone [repository-url]
-cd [repository-name]
+git clone https://github.com/altantopbas/PDF_QA_RAG.git
+cd PDF_QA_RAG
 ```
 
 2. Gerekli paketleri yükleyin:
