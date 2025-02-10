@@ -32,7 +32,7 @@ GEMINI_API_KEY=your_api_key_here
 
 1. Uygulamayı başlatın:
 ```bash
-streamlit run streamlit_app.py
+streamlit run main.py
 ```
 
 2. Web tarayıcınızda otomatik olarak açılan uygulamada:
