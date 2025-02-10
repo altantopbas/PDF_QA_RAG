@@ -1,4 +1,4 @@
-# 📚 PDF Question-Answering System
+# 📚 RAGMind Agent: AI-Driven Knowledge Extraction from PDF
 
 A RAG (Retrieval-Augmented Generation) based question-answering system that allows you to upload PDF documents and ask questions about their contents. Built using Google Gemini AI and FAISS.
 
