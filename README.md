@@ -39,6 +39,9 @@ streamlit run streamlit_app.py
    - 📂 Upload your PDF files from the left sidebar
    - ✍️ Type your question in the text box
    - 🔍 Click the "Answer" button
+  
+3. Usage Example:
+   - ![Usage Example Demo](https://github.com/altantopbas/PDF_QA_RAG/blob/main/example.gif)
 
 ## 📋 Requirements
 
