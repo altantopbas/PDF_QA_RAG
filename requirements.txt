@@ -10,3 +10,5 @@ faiss-cpu==1.10.0
 sentence-transformers==3.4.1
 torch==2.5.1
 transformers==4.47.0
+langchain-huggingface==0.1.2
+
