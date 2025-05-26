@@ -3,7 +3,7 @@
 A RAG (Retrieval-Augmented Generation) based question-answering system that allows you to upload PDF documents and ask questions about their contents. Built using Google Gemini AI and FAISS.
 
 ## ✨ Features
-
+ 
 - 📄 Support for multiple PDF file uploads
 - 🎯 User-friendly Streamlit interface
 - 🤖 Google Gemini AI powered natural language processing
